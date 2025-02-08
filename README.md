@@ -1,2 +1,2 @@
-# Employee-Dashboard-for-HR
+# HR-Analytics-Dashboard 
 Report made using Tableau
