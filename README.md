@@ -13,7 +13,7 @@ It has charts showing the distribution of employees by gender, age group, Income
 ## Dashboard highlights
 ```
 Active Employees: 6901
-Hired:  7749
+Hired: 7749
 Terminated: 848
 ```
 
