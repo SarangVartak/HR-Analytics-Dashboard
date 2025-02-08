@@ -1,11 +1,18 @@
 # HR-Analytics-Dashboard 
 Report made using Tableau
 
-# ABOUT PROJECT:
+
+# ABOUT PROJECT
 This HR analytics Tableau project is aimed at providing HR managers and business leaders a comprehensive way to analyze and monitor employee data, and make data-driven decisions related to employee retention, development, and recruitment.
 
 It has charts showing the distribution of employees by gender, age group, Income department and education field. The chart includes legends and interactive filters to allow HR managers to drill down and explore the data further.
 
+# Dashboard highlights
+```
+Active Employees: 6901
+Hired:  7749
+Terminated: 848
+```
 
 # User Story - HR Dashboard
 As an HR manager, I want a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis
@@ -23,7 +30,7 @@ The Overview section should provide a snapshot of the overall HR metrics, includ
 - Compare total employees between headquarters (HQ) and branches (New York is the HQ)
 - Show the distribution of employees by city and state.
 
-Demographics
+## Demographics
 The Demographics section should offer insights into the composition of the workforce, including:
 
 - Present the gender ratio in the company.
@@ -32,13 +39,13 @@ The Demographics section should offer insights into the composition of the workf
 - Show the total number of employees within each education level.
 - Present the correlation between employees’s educational backgrounds and their performance ratings.
   
-Income
+## Income
 The income analysis section should focus on salary-related metrics, including:
 
 - Compare salaries across different education levels for both genders to identify any discrepancies or patterns.
 - Present how the age correlate with the salary for employees in each department.
 
-Employee Records View
+## Employee Records View
 
 - Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
 - Users should be able to filter the list based on any of the available columns.
