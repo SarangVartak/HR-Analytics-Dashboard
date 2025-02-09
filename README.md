@@ -17,6 +17,10 @@ Hired: 7749
 Terminated: 848
 ```
 
+## Dashboard
+<img src="https://github.com/user-attachments/assets/64e96601-77be-412a-a6a6-3d851c0fa071" style="width: 80%; height: auto;" alt="HR Details">
+<img src="https://github.com/user-attachments/assets/ade08029-0a91-4eb9-8135-c4fbb8ab2351" style="width: 80%; height: auto;" alt="HR Details">
+
 ## User Story - HR Dashboard
 As an HR manager, I want a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis
 
