@@ -18,7 +18,7 @@ Terminated: 848
 ```
 
 ## Dashboard
-<img src="https://github.com/user-attachments/assets/64e96601-77be-412a-a6a6-3d851c0fa071" style="width: 80%; height: auto;" alt="HR Details">
+<img src="https://github.com/user-attachments/assets/b54a83e6-6e08-4fff-83a7-1ab560dff331" style="width: 80%; height: auto;" alt="HR Details">
 <img src="https://github.com/user-attachments/assets/ade08029-0a91-4eb9-8135-c4fbb8ab2351" style="width: 80%; height: auto;" alt="HR Details">
 
 ## User Story - HR Dashboard
